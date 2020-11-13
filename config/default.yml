@@ -1,0 +1,4 @@
+debug:
+  logs: false
+  enableConsole: true
+  openConsole: false
